@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OZCAP
-- 👀 I’m interested in Python, Electronics, Django.
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m @OZCAP (Oscar)
+- 👀 I’m interested in Electronics, Automation and Web Development.
+- 🌱 I’m currently learning Django Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
