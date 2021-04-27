@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A former electrical engineer with a passion for software, hardware and web development.</h3>
 
-- 🌱 I’m currently learning **Django, JavaScript**
+- 🌱 I’m currently learning **Django Framework, JavaScript**
 
 - 📫 How to reach me **oscar.pickerill@gmail.com**
 
