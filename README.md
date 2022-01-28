@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">An automation engineer with a passion for software, hardware and web development.</h3>
 
-- 🌱 I’m currently learning **Django Framework, JavaScript**
+- 🌱 I’m currently learning **React, TypeScript, Firebase**
 
 - 📫 How to reach me **oscar.pickerill@gmail.com**
 
