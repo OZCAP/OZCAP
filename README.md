@@ -7,7 +7,7 @@
 
 - 📝 I sometimes write articles on [https://dev.to/ozcap](https://dev.to/ozcap)
 
-- 📫 How to reach me **oscar.pickerill@gmail.com**
+- 📫 How to reach me **me@oscars.dev**
 
 - ⚡ Fun fact **I play the saxophone**
 
