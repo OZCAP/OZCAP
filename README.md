@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar. How's it going!</h1>
 <h3 align="center">Self-taught developer with a passion for web, server and hardware development.</h3>
 
-- 🌱 I’m currently learning **Postgres, GraphQL, Rust**
+- 🌱 I’m currently learning **Rust, Postgres**
 
 - 👨‍💻 All of my projects are available at [https://oscars.dev](https://oscars.dev)
 
