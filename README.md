@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://oscars.dev](https://oscars.dev)
 
-- 📝 I sometimes write articles on [https://dev.to/ozcap](https://dev.to/ozcap)
+- 📝 I sometimes write articles on [https://dev.to/ozcap](https://dev.to/ozcap) | [https://blog.oscars.dev](https://blog.oscars.dev)
 
 - 📫 How to reach me **me@oscars.dev**
 
