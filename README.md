@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full Stack Engineer with a passion for building on the web.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning **Rust** <br>👨‍💻 All of my projects are available at https://oscars.dev<br>📝 I sometimes write articles on https://blog.oscars.dev or https://dev.to/ozcap<br>📫 How to reach me me@oscars.dev<br>⚡ Fun fact I play the **saxophone**<br>
+🌱 I’m currently learning **Rust** <br>👨‍💻 All of my projects are available at https://oscars.dev<br>📝 I sometimes write articles on https://blog.oscars.dev or https://dev.to/ozcap<br>📫 How to reach me me@oscars.dev<br>⚡ Fun fact I play the [**saxophone**](https://www.youtube.com/watch?v=07Hs99EJOF0)<br>
 
 
 # 💻 Tech Stack:
